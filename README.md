@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ramiz Alam</h1>
 <h3 align="center">A passionate Fullstack developer </h3>
 
-- 🌱 I’m currently learning **node.js and Express.js**
-
 - 📫 How to reach me **ramizalam63@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
